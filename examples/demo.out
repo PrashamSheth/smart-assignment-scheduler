@@ -1,0 +1,58 @@
+Adding Project: 03/01 to 03/10, 10 h (20 slots)
+Inserted Project on the requested dates.
+Adding Lab: 03/02 to 03/03, 5 h (10 slots)
+Inserted Lab on the requested dates.
+Adding Quiz: 03/02 to 03/03, 2 h (4 slots)
+Your intended dates 03/02 to 03/03 are not feasible.
+It is feasible from 03/03 to 03/04
+1: add it on the suggested dates
+2: skip this assignment
+3: force it onto the original dates (over 3 hours/day)
+Choice: 1
+Inserted Quiz on the suggested dates.
+Adding Revision: 03/02 to 03/03, 2 h (4 slots)
+Your intended dates 03/02 to 03/03 are not feasible.
+It is feasible from 03/03 to 03/04
+1: add it on the suggested dates
+2: skip this assignment
+3: force it onto the original dates (over 3 hours/day)
+Choice: 3
+Added Revision forcefully on the original dates.
+
+| Date  | Slot 1   | Slot 2   | Slot 3   | Slot 4   | Slot 5   | Slot 6   | Hours
+| 03/01 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/02 | Lab      | Lab      | Lab      | Lab      | Lab      | Lab      | 4  *Revision  *Revision
+| 03/03 | Lab      | Lab      | Lab      | Lab      | Quiz     | Quiz     | 4  *Revision  *Revision
+| 03/04 | Project  | Project  | Project  | Project  | Quiz     | Quiz     | 3
+| 03/05 | Project  | Project  | Project  | Project  | -        | -        | 2
+| 03/06 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/07 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/08 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/09 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/10 | Project  | Project  | -        | -        | -        | -        | 1
+
+Assignments:
+  Project: 03/01 to 03/10, 10 h (20 slots)
+  Lab: 03/02 to 03/03, 5 h (10 slots)
+  Quiz: 03/03 to 03/04, 2 h (4 slots)
+  Revision: 03/02 to 03/03, 2 h (4 slots)
+
+Deleted Quiz.
+
+| Date  | Slot 1   | Slot 2   | Slot 3   | Slot 4   | Slot 5   | Slot 6   | Hours
+| 03/01 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/02 | Lab      | Lab      | Lab      | Lab      | Lab      | Lab      | 4  *Revision  *Revision
+| 03/03 | Lab      | Lab      | Lab      | Lab      | Revision | Revision | 3
+| 03/04 | Project  | Project  | Project  | Project  | -        | -        | 2
+| 03/05 | Project  | Project  | Project  | Project  | -        | -        | 2
+| 03/06 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/07 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/08 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/09 | Project  | Project  | -        | -        | -        | -        | 1
+| 03/10 | Project  | Project  | -        | -        | -        | -        | 1
+
+Assignments:
+  Project: 03/01 to 03/10, 10 h (20 slots)
+  Lab: 03/02 to 03/03, 5 h (10 slots)
+  Revision: 03/02 to 03/03, 2 h (4 slots)
+
